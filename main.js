@@ -41,11 +41,9 @@ function testLet(){
 // testLet();
 // When you are done with this section you can comment out the console.logs above
 
-//We use the let operator to have differences in local and global variables
 
-
-
-
+// We use 'let' for block-scoped variables, which prevents them from leaking 
+// out of loops or if-statements, unlike 'var' which is function-scoped.
 
 
 //////// PART 2 - template literals////////
